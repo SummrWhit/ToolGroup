@@ -1,0 +1,10 @@
+This is a simple lottery shell
+you can use it as below:
+1.unzip the Lottery.zip
+2.replace List.csv with your list file
+3.run the command: bash lottery.sh
+the terminal can display the lucky person
+
+!!!Note: 
+1.your file must be .csv
+2.to ensure fairness,the lucky number is a random number
